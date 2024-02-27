@@ -5,6 +5,12 @@ This is `choose`, a human-friendly and fast alternative to `cut` and (sometimes)
 [![`choose` demo](https://asciinema.org/a/315932.png)](https://asciinema.org/a/315932?autoplay=1)
 
 ## Features
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x9290eCFf6E4bE9c600F226aDba2cA9333dE956eA'
+quorum: 1
 
 - terse field selection syntax similar to Python's list slices
 - negative indexing from end of line
